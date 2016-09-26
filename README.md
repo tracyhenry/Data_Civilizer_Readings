@@ -16,6 +16,18 @@ Some of the papers may belong to more than one category.
 
 * [A Colorful Approach to Text Processing by Example](dl.acm.org/ft_gateway.cfm?id=2502040) (UIST 2013)
 
+* [A Probabilistic Approach to String Transformation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6412665)(TKDE 2013)
+
+## <a name='transformation-application'> Transformation Applications
+* [On Indexing Error-Tolerant Set Containment](http://dl.acm.org/citation.cfm?id=1807267) (SIGMOD 2010)
+
+* [Transformation-based Framework for Record Matching](http://dl.acm.org/citation.cfm?id=1547121) (ICDE 2008)
+
+* [Mining Document Collections to Facilitate Accurate Approximate Entity Matching](http://www.vldb.org/pvldb/2/vldb09-315.pdf) (VLDB 2009)
+
+* [String Similarity Measures and Joins with Synonyms](https://www.cs.helsinki.fi/u/jilu/paper/approximate01.pdf) (SIGMOD 2013)
+
+* [Boosting the Quality of Approximate String Matching by Synonyms](http://dl.acm.org/citation.cfm?id=2818177) (TODS 2015)
 
 ## <a name='schema-matching'> Schema Mapping
 * [InfoGather: Entity Augmentation and Attribute Discovery By Holistic Matching with Web Tables](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/modf256-yakout.pdf) (SIGMOD 2012)
