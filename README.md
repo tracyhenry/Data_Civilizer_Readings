@@ -41,6 +41,8 @@ Some of the papers may belong to more than one category.
 
 * [Interactive Query Formulation over Web Service-Accessed Sources](http://www.cse.buffalo.edu/~mpetropo/pubs/clide.pdf) (SIGMOD 2006)
 
+* [Discovering Queries based on Example Tuples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigmod14discover.pdf) (SIGMOD 2014)
+
 * [Precis: From Unstructured Keywords as Queries to Structured Databases as Answers](http://www.cse.buffalo.edu/~mpetropo/CSE736-SP10/pubs/2008_vldbj.pdf) (VLDBJ 2008)
 
 * [Fast-Join: An Efficient Method for Fuzzy Token Matching based String Similarity Join](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde2011-fastjoin.pdf) (ICDE 2011)
