@@ -49,4 +49,4 @@ Some of the papers may belong to more than one category.
 
 ## <a name='query-plan'> Join Path Selection, Query Plan
 
-* [QuERy: A Framework for Integrating Entity Resolution with Query Processing](http://www.vldb.org/pvldb/vol9/p120-altwaijry.pdf) (VLDB 2015)
+* [QuERy: A Framework for Integrating Entity Resolution with Query Processing](http://www.vldb.org/pvldb/vol9/p120-altwaijry.pdf) (VLDB 2016)
