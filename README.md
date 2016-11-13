@@ -14,9 +14,11 @@ Some of the papers may belong to more than one category.
 
 * [A Machine Learning Framework for Programming by Example](http://research.microsoft.com/en-us/um/people/sumitg/pubs/icml13.pdf) (ICML 2013)
 
-* [A Colorful Approach to Text Processing by Example](dl.acm.org/ft_gateway.cfm?id=2502040) (UIST 2013)
+* [A Colorful Approach to Text Processing by Example](http://dl.acm.org/ft_gateway.cfm?id=2502040) (UIST 2013)
 
-* [A Probabilistic Approach to String Transformation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6412665)(TKDE 2013)
+* [A Probabilistic Approach to String Transformation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6412665) (TKDE 2013)
+
+* [Automating String Processing in Spreadsheets Using Input-Output Examples](http://msr-waypoint.com/en-us/um/people/sumitg/pubs/popl11-synthesis.pdf) (POPL 2011)
 
 ## <a name='transformation-application'> Transformation Applications
 * [On Indexing Error-Tolerant Set Containment](http://dl.acm.org/citation.cfm?id=1807267) (SIGMOD 2010)
