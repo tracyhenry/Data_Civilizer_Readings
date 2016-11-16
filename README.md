@@ -20,6 +20,8 @@ Some of the papers may belong to more than one category.
 
 * [Automating String Processing in Spreadsheets Using Input-Output Examples](http://msr-waypoint.com/en-us/um/people/sumitg/pubs/popl11-synthesis.pdf) (POPL 2011)
 
+* [Proactive wrangling: mixed-initiative end-user programming of data transformation scripts](http://dl.acm.org/citation.cfm?id=2047205) (UIST 2011)
+
 ## <a name='transformation-application'> Transformation Applications
 * [On Indexing Error-Tolerant Set Containment](http://dl.acm.org/citation.cfm?id=1807267) (SIGMOD 2010)
 
