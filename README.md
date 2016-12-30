@@ -1,10 +1,17 @@
 # Data_Civilizer_Readings
 Some of the papers may belong to more than one category.
 
-## <a name='data-transformation'> Data Transformation
-* [DataXFormer: Leveraging the Web for Semantic Transformations](https://cs.uwaterloo.ca/~ilyas/papers/ZiaCIDR2015.pdf) (CIDR 2015)
+## <a name='synonym-discovery'> Synonym Discovery
 
 * [Learning String Transformations From Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/vldb09-226.pdf) (VLDB 2009)
+
+* [Hybrid text mining for finding abbreviations and their definitions](http://plata.ar.media.kyoto-u.ac.jp/mori/research/survey/EMNLP/01-126.pdf) (EMNLP 2001)
+
+* [A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text](http://biotext.berkeley.edu/papers/psb03.pdf) (PSB 2003)
+
+## <a name='data-transformation'> Data Transformation
+
+* [DataXFormer: Leveraging the Web for Semantic Transformations](https://cs.uwaterloo.ca/~ilyas/papers/ZiaCIDR2015.pdf) (CIDR 2015)
 
 * [Predictive Interaction for Data Transformation](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper27.pdf) (CIDR 2015)
 
