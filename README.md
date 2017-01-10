@@ -9,6 +9,8 @@ Some of the papers may belong to more than one category.
 
 * [A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text](http://biotext.berkeley.edu/papers/psb03.pdf) (PSB 2003)
 
+* [Creating an Online Dictionary of Abbreviations from MEDLINE](http://www.inf.fu-berlin.de/lehre/SS05/19517-V/BioFoletc/abbreviationsLinguistik.pdf) (JAMIA 2002)
+
 ## <a name='data-transformation'> Data Transformation
 
 * [DataXFormer: Leveraging the Web for Semantic Transformations](https://cs.uwaterloo.ca/~ilyas/papers/ZiaCIDR2015.pdf) (CIDR 2015)
