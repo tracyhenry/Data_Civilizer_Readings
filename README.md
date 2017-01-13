@@ -34,7 +34,7 @@ Some of the papers may belong to more than one category.
 ## <a name='transformation-application'> Transformation Applications
 * [On Indexing Error-Tolerant Set Containment](http://dl.acm.org/citation.cfm?id=1807267) (SIGMOD 2010)
 
-* [Transformation-based Framework for Record Matching](http://dl.acm.org/citation.cfm?id=1547121) (ICDE 2008)
+* [Transformation-based Framework for Record Matching](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/icde08.pdf) (ICDE 2008)
 
 * [Mining Document Collections to Facilitate Accurate Approximate Entity Matching](http://www.vldb.org/pvldb/2/vldb09-315.pdf) (VLDB 2009)
 
