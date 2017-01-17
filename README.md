@@ -17,12 +17,6 @@ Some of the papers may belong to more than one category.
 
 * [Predictive Interaction for Data Transformation](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper27.pdf) (CIDR 2015)
 
-* [Spreadsheet Data Manipulation Using Examples](http://research.microsoft.com/en-us/um/people/sumitg/pubs/cacm12-synthesis.pdf) (CACM 2012)
-
-* [Learning Semantic String Transformations from Examples] (http://vldb.org/pvldb/vol5/p740_rishabhsingh_vldb2012.pdf) (VLDB 2012)
-
-* [A Machine Learning Framework for Programming by Example](http://research.microsoft.com/en-us/um/people/sumitg/pubs/icml13.pdf) (ICML 2013)
-
 * [A Colorful Approach to Text Processing by Example](http://dl.acm.org/ft_gateway.cfm?id=2502040) (UIST 2013)
 
 * [A Probabilistic Approach to String Transformation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6412665) (TKDE 2013)
@@ -63,3 +57,22 @@ Some of the papers may belong to more than one category.
 ## <a name='query-plan'> Join Path Selection, Query Plan
 
 * [QuERy: A Framework for Integrating Entity Resolution with Query Processing](http://www.vldb.org/pvldb/vol9/p120-altwaijry.pdf) (VLDB 2016)
+
+
+## <a name='program-synthesis'> Program Synthesis on Spreadsheet Data
+
+* [BlinkFill: Semi-supervised Programming By Example for Syntactic String Transformations](http://www.vldb.org/pvldb/vol9/p816-singh.pdf) (VLDB 2016)
+
+* [Spreadsheet Table Transformations from Examples](http://research.microsoft.com/en-us/um/people/sumitg/pubs/pldi11-table-synthesis.pdf) (PLDI 2011)
+
+* [Learning Semantic String Transformations from Examples] (http://vldb.org/pvldb/vol5/p740_rishabhsingh_vldb2012.pdf) (VLDB 2012)
+
+* [Transforming Spreadsheet Data Types using Examples] (http://people.csail.mit.edu/rishabh/papers/popl16-semantic.pdf) (POPL 2016)
+
+* [Automating String Processing in Spreadsheets Using Input-Output Examples] (http://research.microsoft.com/en-us/um/people/sumitg/pubs/popl11-synthesis.pdf) (POPL 2011)
+
+* [Spreadsheet Data Manipulation Using Examples](http://research.microsoft.com/en-us/um/people/sumitg/pubs/cacm12-synthesis.pdf) (CACM 2012)
+
+* [A Machine Learning Framework for Programming by Example](http://research.microsoft.com/en-us/um/people/sumitg/pubs/icml13.pdf) (ICML 2013)
+
+
