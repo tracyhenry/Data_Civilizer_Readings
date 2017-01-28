@@ -17,6 +17,12 @@ Some of the papers may belong to more than one category.
 
 * [Entity Linking with Effective Acronym Expansion, Instance Selection and Topic Modeling] (http://ijcai.org/Proceedings/11/Papers/319.pdf) (IJCAI 2011)
 
+* [Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation Normalization in Medical Texts](http://www.aclweb.org/anthology/P02-1021) (ACL 2002)
+
+* [Learning Abbreviations from Chinese and English Terms by Modeling Non-Local Information] (http://dl.acm.org/citation.cfm?id=2461317) (TALIP 2013)
+
+* [A term recognition approach to acronym recognition](http://dl.acm.org/citation.cfm?id=1273156) (COLING-ACL 2006)
+
 ## <a name='data-transformation'> Data Transformation
 
 * [DataXFormer: Leveraging the Web for Semantic Transformations](https://cs.uwaterloo.ca/~ilyas/papers/ZiaCIDR2015.pdf) (CIDR 2015)
