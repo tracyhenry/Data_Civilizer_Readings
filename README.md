@@ -11,6 +11,8 @@ Some of the papers may belong to more than one category.
 
 * [Creating an Online Dictionary of Abbreviations from MEDLINE](http://www.inf.fu-berlin.de/lehre/SS05/19517-V/BioFoletc/abbreviationsLinguistik.pdf) (JAMIA 2002)
 
+* [A Hybrid Abbreviation Extraction Technique for Biomedical Literature](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4413035) (BIBM 2007)
+
 ## <a name='data-transformation'> Data Transformation
 
 * [DataXFormer: Leveraging the Web for Semantic Transformations](https://cs.uwaterloo.ca/~ilyas/papers/ZiaCIDR2015.pdf) (CIDR 2015)
