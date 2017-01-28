@@ -15,6 +15,8 @@ Some of the papers may belong to more than one category.
 
 * [A Discriminative Approach to Japanese Abbreviation Extraction](https://pdfs.semanticscholar.org/12c6/d095fae57b360dbcf8b5599b5fbc9809abd1.pdf) (IJCNLP 2008)
 
+* [Entity Linking with Effective Acronym Expansion, Instance Selection and Topic Modeling] (http://ijcai.org/Proceedings/11/Papers/319.pdf) (IJCAI 2011)
+
 ## <a name='data-transformation'> Data Transformation
 
 * [DataXFormer: Leveraging the Web for Semantic Transformations](https://cs.uwaterloo.ca/~ilyas/papers/ZiaCIDR2015.pdf) (CIDR 2015)
