@@ -13,6 +13,8 @@ Some of the papers may belong to more than one category.
 
 * [A Hybrid Abbreviation Extraction Technique for Biomedical Literature](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4413035) (BIBM 2007)
 
+* [A Discriminative Approach to Japanese Abbreviation Extraction](https://pdfs.semanticscholar.org/12c6/d095fae57b360dbcf8b5599b5fbc9809abd1.pdf) (IJCNLP 2008)
+
 ## <a name='data-transformation'> Data Transformation
 
 * [DataXFormer: Leveraging the Web for Semantic Transformations](https://cs.uwaterloo.ca/~ilyas/papers/ZiaCIDR2015.pdf) (CIDR 2015)
