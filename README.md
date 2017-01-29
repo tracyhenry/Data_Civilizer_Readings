@@ -9,6 +9,8 @@ Some of the papers may belong to more than one category.
 
 * [A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text](http://biotext.berkeley.edu/papers/psb03.pdf) (PSB 2003)
 
+* [S-RAD: A Simple and Robust Abbreviation Dictionary](http://www.hpl.hp.com/research/idl/papers/srad/s-rad-090502.pdf) (Bioinformatics 2004)
+
 * [Creating an Online Dictionary of Abbreviations from MEDLINE](http://www.inf.fu-berlin.de/lehre/SS05/19517-V/BioFoletc/abbreviationsLinguistik.pdf) (JAMIA 2002)
 
 * [A Hybrid Abbreviation Extraction Technique for Biomedical Literature](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4413035) (BIBM 2007)
