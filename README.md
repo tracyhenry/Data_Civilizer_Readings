@@ -25,6 +25,8 @@ Some of the papers may belong to more than one category.
 
 * [A term recognition approach to acronym recognition](http://dl.acm.org/citation.cfm?id=1273156) (COLING-ACL 2006)
 
+* [ALICE: An Algorithm to Extract Abbreviations from MEDLINE](https://pdfs.semanticscholar.org/77c9/65882a268b0f2a99b8574b70d44f3b66933c.pdf) (JAMIA 2005)
+
 ## <a name='data-transformation'> Data Transformation
 
 * [DataXFormer: Leveraging the Web for Semantic Transformations](https://cs.uwaterloo.ca/~ilyas/papers/ZiaCIDR2015.pdf) (CIDR 2015)
