@@ -5,6 +5,8 @@ Some of the papers may belong to more than one category.
 
 * [Learning String Transformations From Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/vldb09-226.pdf) (VLDB 2009)
 
+* [Learning Top-k Transformation Rules](http://www.cse.unsw.edu.au/~weiw/files/DEXA11-TransformationRules-Final.pdf) (DEXA 2011)
+
 * [Hybrid text mining for finding abbreviations and their definitions](http://plata.ar.media.kyoto-u.ac.jp/mori/research/survey/EMNLP/01-126.pdf) (EMNLP 2001)
 
 * [A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text](http://biotext.berkeley.edu/papers/psb03.pdf) (PSB 2003)
