@@ -19,11 +19,11 @@ Some of the papers may belong to more than one category.
 
 * [A Discriminative Approach to Japanese Abbreviation Extraction](https://pdfs.semanticscholar.org/12c6/d095fae57b360dbcf8b5599b5fbc9809abd1.pdf) (IJCNLP 2008)
 
-* [Entity Linking with Effective Acronym Expansion, Instance Selection and Topic Modeling] (http://ijcai.org/Proceedings/11/Papers/319.pdf) (IJCAI 2011)
+* [Entity Linking with Effective Acronym Expansion, Instance Selection and Topic Modeling](http://ijcai.org/Proceedings/11/Papers/319.pdf) (IJCAI 2011)
 
 * [Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation Normalization in Medical Texts](http://www.aclweb.org/anthology/P02-1021) (ACL 2002)
 
-* [Learning Abbreviations from Chinese and English Terms by Modeling Non-Local Information] (http://dl.acm.org/citation.cfm?id=2461317) (TALIP 2013)
+* [Learning Abbreviations from Chinese and English Terms by Modeling Non-Local Information](http://dl.acm.org/citation.cfm?id=2461317) (TALIP 2013)
 
 * [A term recognition approach to acronym recognition](http://dl.acm.org/citation.cfm?id=1273156) (COLING-ACL 2006)
 
@@ -83,9 +83,9 @@ Some of the papers may belong to more than one category.
 
 * [Spreadsheet Table Transformations from Examples](http://research.microsoft.com/en-us/um/people/sumitg/pubs/pldi11-table-synthesis.pdf) (PLDI 2011)
 
-* [Learning Semantic String Transformations from Examples] (http://vldb.org/pvldb/vol5/p740_rishabhsingh_vldb2012.pdf) (VLDB 2012)
+* [Learning Semantic String Transformations from Examples](http://vldb.org/pvldb/vol5/p740_rishabhsingh_vldb2012.pdf) (VLDB 2012)
 
-* [Transforming Spreadsheet Data Types using Examples] (http://people.csail.mit.edu/rishabh/papers/popl16-semantic.pdf) (POPL 2016)
+* [Transforming Spreadsheet Data Types using Examples](http://people.csail.mit.edu/rishabh/papers/popl16-semantic.pdf) (POPL 2016)
 
 * [Automating String Processing in Spreadsheets Using Input-Output Examples] (http://research.microsoft.com/en-us/um/people/sumitg/pubs/popl11-synthesis.pdf) (POPL 2011)
 
@@ -93,4 +93,19 @@ Some of the papers may belong to more than one category.
 
 * [A Machine Learning Framework for Programming by Example](http://research.microsoft.com/en-us/um/people/sumitg/pubs/icml13.pdf) (ICML 2013)
 
+* [Automating String Processing in
+Spreadsheets Using Input-Output Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) (POPL 2011)
 
+## <a name='program-synthesis'> Truth Discovery
+
+* [Truth Discovery with Multiple Conflicting Information Providers on the Web](http://www.lunadong.com/publication/lifespan_vldb.pdf) (KDD 2007)
+
+* [Integrating Conflicting Data: The Role of Source Dependence](http://www.lunadong.com/publication/dependence_vldb.pdf) (VLDB 2009)
+
+* [Truth Discovery and Copying Detection in a Dynamic World](http://www.lunadong.com/publication/lifespan_vldb.pdf) (VLDB 2009)
+
+* [Less is More: Selecting Sources Wisely for Integration](http://www.lunadong.com/publication/marginalism_vldb.pdf) (VLDB 2012)
+
+* [Fusing Data with Correlations](http://www.lunadong.com/publication/fusionWCorr_sigmod.pdf) (SIMGOD 2014)
+
+* [Truth finding on the Deep Web: Is the problem solved? ](http://www.vldb.org/pvldb/vol6/p97-li.pdf) (VLDB 2013) 
