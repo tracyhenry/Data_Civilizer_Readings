@@ -81,6 +81,8 @@ Some of the papers may belong to more than one category.
 
 * [BlinkFill: Semi-supervised Programming By Example for Syntactic String Transformations](http://www.vldb.org/pvldb/vol9/p816-singh.pdf) (VLDB 2016)
 
+* [FIDEX: Filtering Spreadsheet Data using Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-spreadsheet.pdf) (OOPSLA 16)
+
 * [Spreadsheet Table Transformations from Examples](http://research.microsoft.com/en-us/um/people/sumitg/pubs/pldi11-table-synthesis.pdf) (PLDI 2011)
 
 * [Learning Semantic String Transformations from Examples](http://vldb.org/pvldb/vol5/p740_rishabhsingh_vldb2012.pdf) (VLDB 2012)
