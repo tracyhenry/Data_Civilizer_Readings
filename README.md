@@ -89,14 +89,11 @@ Some of the papers may belong to more than one category.
 
 * [Transforming Spreadsheet Data Types using Examples](http://people.csail.mit.edu/rishabh/papers/popl16-semantic.pdf) (POPL 2016)
 
-* [Automating String Processing in Spreadsheets Using Input-Output Examples] (http://research.microsoft.com/en-us/um/people/sumitg/pubs/popl11-synthesis.pdf) (POPL 2011)
-
 * [Spreadsheet Data Manipulation Using Examples](http://research.microsoft.com/en-us/um/people/sumitg/pubs/cacm12-synthesis.pdf) (CACM 2012)
 
 * [A Machine Learning Framework for Programming by Example](http://research.microsoft.com/en-us/um/people/sumitg/pubs/icml13.pdf) (ICML 2013)
 
-* [Automating String Processing in
-Spreadsheets Using Input-Output Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) (POPL 2011)
+* [Automating String Processing in Spreadsheets Using Input-Output Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) (POPL 2011)
 
 ## <a name='program-synthesis'> Truth Discovery
 
